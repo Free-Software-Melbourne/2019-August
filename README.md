@@ -2,14 +2,14 @@
 
 
 
-# Presentation and Gnews
+# Assistance and Access Bill
 
-Presentation slides and Gnews for Free Software Melbourne for February 2019
+Presentation slides for Free Software Melbourne for April 2019
 
 
 # To View
 
-[gh-pages](https://free-software-melbourne.github.io/Mastodon-2019-February/)
+[gh-pages](https://free-software-melbourne.github.io/Assistance-and-Access-Bill/)
 
 
 # To Run
@@ -25,16 +25,14 @@ Presentation slides and Gnews for Free Software Melbourne for February 2019
 
 # Refs:
 
-- https://bridge.joinmastodon.org/
-- https://twitter.com/mastodonproject?lang=en
-- https://en.wikipedia.org/wiki/Mastodon_(software)
+Submissions:
+https://www.aph.gov.au/Parliamentary_Business/Committees/Joint/Intelligence_and_Security/ReviewofTOLAAct/Report/section?id=committees%2freportjnt%2f024269%2f27191
 
-- https://ericlbarnes.com/2018/09/07/mastodon-first-thoughts/
-- https://slate.com/technology/2018/08/mastodon-what-you-need-to-know-about-the-new-social-network-competing-with-twitter.html
-- https://hackernoon.com/mastodon-is-dead-in-the-water-888c10e8abb1
-- https://www.lifehacker.com.au/2018/08/a-beginners-guide-to-mastodonemem/
-- https://blog.joinmastodon.org/2018/07/cage-the-mastodon/
-- https://joinmastodon.org/
-- https://instances.social/list#lang=en&allowed=&prohibited=nudity_nocw,nudity_all,pornography_nocw,pornography_all,illegalContentLinks,spam&users=
+Company Statements:
+Atlassian: https://www.atlassian.com/blog/announcements/atlassian-urges-changes-to-australian-assistance-and-access-act
+Paul Shetler (former government digital lead): https://www.innovationaus.com/2019/04/New-social-media-laws-pointless
+Amazon, Facebook, Google, Oath and Twitter: https://www.cio.com.au/article/646536/tech-giants-urge-govt-review-assistance-access-bill/
 
-
+Independent Review:
+https://ia.acs.org.au/article/2019/assistance-and-access-act-to-face-independent-review.html
+https://www.miragenews.com/intelligence-committee-refers-assistance-and-access-act-for-independent-review/
