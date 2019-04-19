@@ -1,10 +1,10 @@
 # Free Software Melbourne
-#### 21st of February 2019
+#### 18st of April 2019
 <img src=slides/img/FSM_logo.png width="20%">
 
-## All about Mastodon
+## Assistance and Access Bill 2018
 
-### and a little Gnews
+### and a bit of Gnews
 
 <hr />
 
