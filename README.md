@@ -4,12 +4,12 @@
 
 # Assistance and Access Bill
 
-Presentation slides for Free Software Melbourne for April 2019
+Presentation slides for Free Software Melbourne for August 2019
 
 
 # To View
 
-[gh-pages](https://free-software-melbourne.github.io/Assistance-and-Access-Bill/)
+[gh-pages](https://free-software-melbourne.github.io/2019-August/)
 
 
 # To Run
