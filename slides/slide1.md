@@ -1,10 +1,10 @@
 # Free Software Melbourne
-#### 18st of April 2019
+#### 15th of August 2019
 <img src=slides/img/FSM_logo.png width="20%">
 
-## Assistance and Access Bill 2018
+## Free Software
 
-### and a bit of Gnews
+### Show and Tell
 
 <hr />
 
